@@ -4,7 +4,7 @@
 
 👋 Hello, I am Jhonypaula.<br>
 🚀 Passionate Developer about Technology.<br>
-💻 Currently Working On A Project Called: nikeapp.<br>
+💻 Currently Working On A Project Called: Dejavu_web.<br>
 🔧 Technologies Being Studied: C#, PHP, MYSQL, HTML, CSS, and JAVASCRIPT.<br>
 📖 Recently Learning: OOP and WINFORMS. <br>
 📫 You can contact me at jhony.depaula06@gmail.com.
