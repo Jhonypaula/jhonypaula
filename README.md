@@ -1,24 +1,68 @@
-# Hello! I'm Jhony Weverton! or better known as jhonypaula :)
+<h1 align="center">Hi 👋, I'm Jhony Weverton</h1>
+<h3 align="center">Backend Developer in progress 🚀</h3>
 
-##  A little bit about me
+<p align="center">
+  <a href="mailto:jhony.depaula06@gmail.com">
+    <img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-👋 Hello, I am Jhonypaula.<br>
-🚀 Passionate Developer about Technology.<br>
-💻 Currently Working On A Project Called: Dejavu_web.<br>
-🔧 Technologies Being Studied: C#, PHP, MYSQL, HTML, CSS, and JAVASCRIPT.<br>
-📖 Recently Learning: OOP and WINFORMS. <br>
-📫 You can contact me at jhony.depaula06@gmail.com.
+---
 
-## Developing Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+## 🧠 About Me
 
-## Github Status
+- 👨‍💻 Currently building **MyFinance** (financial manager system)
+- 📚 Studying **OOP, APIs and Backend Architecture**
+- 💡 Focused on becoming a **Backend Developer**
+- ⚙️ Working with real-world projects and practice
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jhonypaula&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonypaula&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jhonypaula&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)<br>
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=jhonypaula&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonypaula&layout=compact&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=jhonypaula&theme=tokyonight&hide_border=true"
+  />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Backend development (Pyhon / PHP)
+- Database modeling (MySQL)
+- Building real systems (MyFinance 💰)
+- Improving clean code and project structure
+
+---
+
+## 📫 Contact
+
+- Email: **jhony.depaula06@gmail.com**
+
+---
+
+<p align="center">
+  ⚡ "Consistency beats motivation."
+</p>
