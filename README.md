@@ -5,13 +5,16 @@
   <a href="mailto:jhony.depaula06@gmail.com">
     <img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/jhonyweverton/">
+    <img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 👨‍💻 Currently building **MyFinance** (financial manager system)
+- 👨‍💻 Currently building **iFinance** (financial manager system)
 - 📚 Studying **OOP, APIs and Backend Architecture**
 - 💡 Focused on becoming a **Backend Developer**
 - ⚙️ Working with real-world projects and practice
@@ -21,7 +24,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cs,python" />
 </p>
 
 ---
@@ -31,7 +34,7 @@
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=jhonypaula&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=jhonypaula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
   />
   
   <img 
@@ -50,9 +53,9 @@
 
 ## 🔥 Current Focus
 
-- Backend development (Pyhon / PHP)
+- Backend development (PHP / C# / Python)
 - Database modeling (MySQL)
-- Building real systems (MyFinance 💰)
+- Building real systems (iFinance 💰)
 - Improving clean code and project structure
 
 ---
@@ -60,6 +63,7 @@
 ## 📫 Contact
 
 - Email: **jhony.depaula06@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/jhonyweverton/**
 
 ---
 
