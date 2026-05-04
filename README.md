@@ -14,8 +14,8 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 Currently building **iFinance** (financial manager system)
-- 📚 Studying **OOP, APIs and Backend Architecture**
+- 👨‍💻 Currently building **MyFinance** (financial manager system)
+- 📚 Studying **OOP, Django, APIs and Backend Architecture**
 - 💡 Focused on becoming a **Backend Developer**
 - ⚙️ Working with real-world projects and practice
 
@@ -41,9 +41,9 @@
 
 ## 🔥 Current Focus
 
-- Backend development (PHP / C# / Python)
+- Backend development (PHP / Python)
 - Database modeling (MySQL)
-- Building real systems (iFinance 💰)
+- Building real systems (MyFinance 💰)
 - Improving clean code and project structure
 
 ---
